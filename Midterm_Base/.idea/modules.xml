@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Midterm_Base.iml" filepath="$PROJECT_DIR$/Midterm_Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Midterm_Base_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Midterm_Base_main.iml" group="Midterm_Base" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Midterm_Base_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Midterm_Base_test.iml" group="Midterm_Base" />
+    </modules>
+  </component>
+</project>
